@@ -10,7 +10,7 @@ pyenv install 3.8.8
 pyenv global 3.8.8
 # pipenv
 python -m pip install --upgrade pip
-python -m pip install pipenv
+sudo pip install pipenv
 pipenv install
 ```
 
